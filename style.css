@@ -1,0 +1,14 @@
+body{
+    font-family: Open Sans, sans-serif;
+    background-color: #f0efef;
+    }
+    
+    header{
+        height: 100px;
+        border-bottom: 1px solid #000;
+        height: 120px;
+        border-bottom: 2px solid #000;
+        margin-bottom: 40px;
+    }
+    
+   
