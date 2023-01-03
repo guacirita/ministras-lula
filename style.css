@@ -17,7 +17,6 @@ header h1{
     font-weight: lighter;
     padding-top: 10px;
     padding-left: 10px;
-    color:blueviolet;
 }
 
 header p{
@@ -25,7 +24,6 @@ header p{
     margin-top: 25px;
     text-align: center;
     font-style: italic;
-    color:blueviolet;
 }
 
 .card{
@@ -79,7 +77,6 @@ footer{
     text-align: center; 
     font-weight: lighter;
     font-style: italic;  
-    color:blueviolet;
 }
     
     @media (max-width: 768px){
